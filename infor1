@@ -1,0 +1,6 @@
+name="Joseph Johnson"
+echo "Hello, Joe"
+echo "How old are you"
+echo "you are $1"
+read -p "Enter how old you are: 43"
+echo "you are 43 years old."
